@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:alpine@cluster0-pnjxz.mongodb.net/hueli?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
